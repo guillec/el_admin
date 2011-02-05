@@ -1,0 +1,8 @@
+Description:
+    Modd is Message of d day - This generator creates a model, controller and migrations files for a message of the day process.
+
+Example:
+    rails generate modd Thing
+
+    This will create:
+        what/will/it/create

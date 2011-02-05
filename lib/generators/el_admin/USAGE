@@ -1,0 +1,8 @@
+Description:
+    El_admin is a generator that lest you install different common processes that we use in most apps, example, Message of the Day.
+
+Example:
+    rails generate el_admin Thing
+
+    This will create:
+        what/will/it/create
